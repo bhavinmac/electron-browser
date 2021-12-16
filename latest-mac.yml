@@ -1,0 +1,12 @@
+version: 0.0.4
+files:
+  - url: Electronbrowser-0.0.4-mac.zip
+    sha512: NwDeVeuSo+BTHuPFooUkytzbGx9kRBufkMwek2qMNVmaZ2c3m0UyDA7HHLCnnQhuirkN9roprqUiyIFlsLNUhg==
+    size: 76554508
+    blockMapSize: 81383
+  - url: Electronbrowser-0.0.4.dmg
+    sha512: 4lcwrhHfdh0Q7L1RjabYJ/5vSuU0FndRfCRO68L2sXLoZ+oXIR4LCKUrNkUYKKzg3WQ3D0YUsFv3gv/s7CTG+A==
+    size: 78960686
+path: Electronbrowser-0.0.4-mac.zip
+sha512: NwDeVeuSo+BTHuPFooUkytzbGx9kRBufkMwek2qMNVmaZ2c3m0UyDA7HHLCnnQhuirkN9roprqUiyIFlsLNUhg==
+releaseDate: '2021-12-16T08:09:28.859Z'
