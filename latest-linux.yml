@@ -1,0 +1,9 @@
+version: 0.0.2
+files:
+  - url: Electronbrowser-0.0.2.AppImage
+    sha512: q63Yu8gTtzWkykFgB3DC6eQgCLXOAguML1DdSqbuAQnXoO9U6CqdWcp5IFLLfcbkGjq2Ohd4eO4mfN0XIPUorA==
+    size: 79656466
+    blockMapSize: 83494
+path: Electronbrowser-0.0.2.AppImage
+sha512: q63Yu8gTtzWkykFgB3DC6eQgCLXOAguML1DdSqbuAQnXoO9U6CqdWcp5IFLLfcbkGjq2Ohd4eO4mfN0XIPUorA==
+releaseDate: '2021-12-16T06:39:17.261Z'
